@@ -6,7 +6,10 @@
 
 ### The Case: The "Universal Upgrade" Workflow
 
-For this particular case, we are focusing on the **Upgrade Path**. We need a robust, scalable way to transition users from a 'Free' or 'Basic' tier to a 'Pro' or 'Enterprise' tier, using a single endpoint for all our products and markets. This is the highest-value interaction in our app, and it must be both bulletproof and extendable.
+For this particular case, we are focusing on the **Upgrade Path**. We need a robust, scalable way to transition users from a 'Free' or 'Basic' tier to a 'Plus' or 'Enterprise' tier, using a single endpoint for all our products and markets. This is the highest-value interaction in our app, and it must be both bulletproof and extendable.
+
+<img width="1007" height="1106" alt="image" src="https://github.com/user-attachments/assets/66f6d7e2-c90c-43bb-8657-9db72486832b" />
+
 
 ### Core Product Requirements
 
